@@ -1,0 +1,18 @@
+[
+    [
+        "M: What would you like to drink?",
+        "F: Some coffee, please."
+    ],
+    [
+        {
+            "question": "What will the woman drink?",
+            "choice": [
+                "Coffee",
+                "Tea",
+                "Beer"
+            ],
+            "answer": "Coffee"
+        }
+    ],
+    "11-201"
+]
